@@ -6,5 +6,6 @@ Supports:
   - To-Do Check
   - Random Image Loading Latency
   - Shortcuts to Social Media
+  - Light Effects w/ SASS
   
 Reference : https://momentumdash.com/
